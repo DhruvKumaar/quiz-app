@@ -1,4 +1,4 @@
-# Quiz App
+# Project 4: Quiz App Using Tkinter
 
 ## Overview
 
